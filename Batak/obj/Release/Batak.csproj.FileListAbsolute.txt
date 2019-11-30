@@ -1,0 +1,6 @@
+C:\Users\Monster\source\repos\Batak\Batak\bin\Release\Batak.exe.config
+C:\Users\Monster\source\repos\Batak\Batak\bin\Release\Batak.exe
+C:\Users\Monster\source\repos\Batak\Batak\bin\Release\Batak.pdb
+C:\Users\Monster\source\repos\Batak\Batak\obj\Release\Batak.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\Batak\Batak\obj\Release\Batak.exe
+C:\Users\Monster\source\repos\Batak\Batak\obj\Release\Batak.pdb
