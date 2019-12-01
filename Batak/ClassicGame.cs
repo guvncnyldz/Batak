@@ -17,7 +17,7 @@ namespace Batak
         private TurnManager turnManager;
         private BidManager bidManager;
 
-        private int maxGameCount = 2;
+        private int maxGameCount = 11;
         private int currentGameCount = 0;
 
         private int cardCount = 13;

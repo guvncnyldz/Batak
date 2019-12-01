@@ -94,6 +94,7 @@ namespace Batak
         public void Reset()
         {
             currentTurn = -1;
+            trumpActive = false;
         }
     }
 }
